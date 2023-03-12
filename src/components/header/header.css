@@ -1,0 +1,15 @@
+.header {
+    /* height: 50px; */
+    background-color: mediumpurple;
+}
+
+.menu {
+
+    display: flex;
+}
+
+.menu-link {
+    margin: 15px;
+    font-size: 30px;
+    cursor: pointer;
+}
